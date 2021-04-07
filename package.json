@@ -22,7 +22,7 @@
   "homepage": "http://github.com/andris9/nodemailer-direct-transport",
   "dependencies": {
     "nodemailer-shared": "1.1.0",
-    "smtp-connection": "2.12.0"
+    "smtp-connection": "^4.0.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
